@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776032536314",
+    "project_id": "shilpakalashowcase",
+    "storage_bucket": "shilpakalashowcase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776032536314:android:a5c7f479897a08eb296b43",
+        "android_client_info": {
+          "package_name": "com.example.shilpakalashowcase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4cJVZmK3KYqxYRjwX3gyxUbZOb1a4J0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
